@@ -4321,7 +4321,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2680344"
+		(property "LCSC" "C2681320"
 			(at 50.8 38.1 0)
 			(effects
 				(font
@@ -5084,7 +5084,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2680344"
+		(property "LCSC" "C2681320"
 			(at 50.8 115.57 0)
 			(effects
 				(font
@@ -7847,7 +7847,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2680344"
+		(property "LCSC" "C2681320"
 			(at 50.8 90.17 0)
 			(effects
 				(font
@@ -8068,7 +8068,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2680344"
+		(property "LCSC" "C2681320"
 			(at 50.8 63.5 0)
 			(effects
 				(font
